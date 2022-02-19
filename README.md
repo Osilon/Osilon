@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Life011
-- 👀 I’m interested in game development.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning C#.
 - 📫 Email: proismine@yahoo.com
 
