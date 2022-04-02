@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Life011
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in game developing.
+- 🌱 I’m currently learning python.
 - 📫 Email: proismine@yahoo.com
 
 <!---
