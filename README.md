@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Life011
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Game Developing.
+- 🌱 I’m currently learning Python and GDScript
 - 📫 Email: proismine@yahoo.com
 
 <!---
