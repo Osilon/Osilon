@@ -1,4 +1,4 @@
-<h3>Hi there 👋<br /></h3>
+<h2>Hi there 👋<br /></h2>
 
 My name's David! <br />
 
