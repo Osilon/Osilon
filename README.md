@@ -1,5 +1,9 @@
-<h3>Hi there 👋<br /></h3>
-
-My name's David! <br />
-
-I am a novice Software Developer who focuses on both Frontend and Backend sides. <br />
+```css
+#osilon { 
+  position: Earth; 
+  height: 170cm; 
+  display: Human; 
+  background: Code Composer 💻; 
+  content: Hi there, I'm David, nice to meet ya! 🖐️ 
+}
+```
