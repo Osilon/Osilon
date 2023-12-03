@@ -3,7 +3,7 @@
   position: Earth; 
   height: 170cm; 
   display: Human; 
-  background: Code Composer 💻; 
+  background: Programmer; 
   content: Hi there, I'm David, nice to meet ya!;
 }
 ```
