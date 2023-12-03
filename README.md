@@ -2,4 +2,4 @@
 
 My name's David! <br />
 
-I am a novice Software Developer who focuses mostly on Web Development. <br />
+I am a novice Software Developer who focuses on both Frontend and Backend sides. <br />
