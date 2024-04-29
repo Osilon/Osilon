@@ -1,5 +1,5 @@
 ```css
-#osilon { 
+#Osilon { 
   position: Earth; 
   height: 170cm; 
   display: Human; 
