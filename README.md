@@ -4,7 +4,7 @@
   height: 170cm; 
   display: Human; 
   background: Programmer;
-  tech-stack: HTML, CSS, JavaScript, Python, React;
+  tech-stack: HTML, CSS, JavaScript, SQL, React;
   content: Hey, welcome to my profile!;
 }
 ```
