@@ -1,3 +1,3 @@
 ## Welcome to my profile! 🐌
 
-#### Aspiring Programmer | Systems Engineering Student
+Aspiring Programmer | Systems Engineering Student
